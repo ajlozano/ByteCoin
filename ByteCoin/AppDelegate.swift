@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  ByteCoin
 //
-//  Created by Angela Yu on 11/09/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Toni Lozano Fernández on 23/1/23.
 //
 
 import UIKit
