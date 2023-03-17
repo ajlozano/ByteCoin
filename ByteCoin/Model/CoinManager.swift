@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import CoreLocation
 
 protocol CoinManagerDelegate {
     func DidUpdateCoinData(_ coinData: CoinData)
